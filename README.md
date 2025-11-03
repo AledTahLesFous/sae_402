@@ -17,7 +17,7 @@ Ce projet a été conçu comme un portfolio pour montrer mes compétences en Nod
 
 ### Cloner le projet :
 `
-git clone [<URL_DU_REPO>](https://github.com/AledTahLesFous/sae_402.git)
+git clone https://github.com/AledTahLesFous/sae_402.git
 cd movie_actors_api
 `
 
